@@ -11,6 +11,8 @@
 		3C5F0F032B554D9300E0E927 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5F0F022B554D9300E0E927 /* ContentView.swift */; };
 		3C5F0F052B554D9400E0E927 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C5F0F042B554D9400E0E927 /* Assets.xcassets */; };
 		3C5F0F082B554D9400E0E927 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3C5F0F072B554D9400E0E927 /* Preview Assets.xcassets */; };
+		3C5F0F0F2B55530800E0E927 /* ProgressRing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5F0F0E2B55530800E0E927 /* ProgressRing.swift */; };
+		3C5F0F112B556BC900E0E927 /* FastingManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3C5F0F102B556BC900E0E927 /* FastingManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		3C5F0F022B554D9300E0E927 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		3C5F0F042B554D9400E0E927 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C5F0F072B554D9400E0E927 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		3C5F0F0E2B55530800E0E927 /* ProgressRing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressRing.swift; sourceTree = "<group>"; };
+		3C5F0F102B556BC900E0E927 /* FastingManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastingManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				3C5F0F002B554D9300E0E927 /* FastingTimerApp.swift */,
 				3C5F0F022B554D9300E0E927 /* ContentView.swift */,
+				3C5F0F0E2B55530800E0E927 /* ProgressRing.swift */,
+				3C5F0F102B556BC900E0E927 /* FastingManager.swift */,
 				3C5F0F042B554D9400E0E927 /* Assets.xcassets */,
 				3C5F0F062B554D9400E0E927 /* Preview Content */,
 			);
@@ -139,6 +145,8 @@
 			files = (
 				3C5F0F032B554D9300E0E927 /* ContentView.swift in Sources */,
 				3C5F0F012B554D9300E0E927 /* FastingTimerApp.swift in Sources */,
+				3C5F0F112B556BC900E0E927 /* FastingManager.swift in Sources */,
+				3C5F0F0F2B55530800E0E927 /* ProgressRing.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
